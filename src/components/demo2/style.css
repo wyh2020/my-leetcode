@@ -1,0 +1,18 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto;
+}
+.grid-header {
+    text-align: center;
+    background-color: antiquewhite;
+}
+.grid-item {
+    background-color: #eeeeee;
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+    overflow-y:scroll
+}
+
+.grid-item-p {
+
+}
